@@ -14,9 +14,9 @@ Here are some useful editor keyboard shortcuts:
 
 ## Screenshots
 
-![Sample_image1](https://github.com/DhananjayPorwal/psycho-coder-dark/blob/main/images/Sample_image1.png)
+![Sample_image1](https://raw.githubusercontent.com/DhananjayPorwal/psycho-coder-dark/main/images/Sample_image1.png)
 <br>
 
-![Sample_image2](https://github.com/DhananjayPorwal/psycho-coder-dark/blob/main/images/Sample_image2.png)
+![Sample_image2](https://raw.githubusercontent.com/DhananjayPorwal/psycho-coder-dark/main/images/Sample_image2.png)
 
-Enjoy!
+**Enjoy!**
