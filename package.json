@@ -1,0 +1,32 @@
+{
+    "name": "psyco-coder-dark",
+    "displayName": "Psyco Coder Dark",
+    "description": "Psycho Coder Dark theme",
+    "version": "0.0.1",
+    "publisher": "ThePsychoCoder",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/DhananjayPorwal/psycho-coder-dark"
+	},
+	"keywords": [
+		"psycho coder",
+		"dhananjay porwal",
+		"tech ram",
+		"dprock"
+	],
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Psycho Coder Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Psycho Coder Dark-color-theme.json"
+            }
+        ]
+    }
+}
