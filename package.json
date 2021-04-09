@@ -2,7 +2,8 @@
     "name": "psyco-coder-dark",
     "displayName": "Psyco Coder Dark",
     "description": "Psycho Coder Dark theme",
-    "version": "2.1.4",
+    "icon": "images/psyco-coder-dark-icon.png",
+    "version": "2.1.41",
     "publisher": "ThePsychoCoder",
     "repository": {
 		"type": "git",
@@ -11,10 +12,12 @@
 	"keywords": [
 		"psycho coder",
 		"dhananjay porwal",
+        "porwal.exe",
 		"tech ram",
 		"dprock",
         "en19cs301110",
-        "indori bawa"
+        "indori bawa",
+        "medicaps-university"
 	],
     "engines": {
         "vscode": "^1.46.0"
