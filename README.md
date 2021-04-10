@@ -1,8 +1,10 @@
 # psyco-coder-dark
 
 ![version number](https://vsmarketplacebadge.apphb.com/version/ThePsychoCoder.psyco-coder-dark.svg?color=blue&style=flat-square)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/ThePsychoCoder.psyco-coder-dark.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ThePsychoCoder.psyco-coder-dark.svgWT.mc_id=javascript-0000)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/ThePsychoCoder.psyco-coder-dark.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ThePsychoCoder.psyco-coder-dark.svg&WT.mc_id=javascript-0000)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/ThePsychoCoder.psyco-coder-dark.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ThePsychoCoder.psyco-coder-dark.svgWT.mc_id=javascript-0000)
+
 
 
 Here are some useful editor keyboard shortcuts:
