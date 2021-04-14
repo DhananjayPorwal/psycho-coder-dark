@@ -8,12 +8,6 @@
 
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=ThePsychoCoder.psyco-coder-dark" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/ThePsychoCoder.psyco-coder-dark.svg?color=c19999&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
-
-<a href="https://marketplace.visualstudio.com/items?itemName=ThePsychoCoder.psyco-coder-dark" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/r/ThePsychoCoder.psyco-coder-dark.svg?color=c19999&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Rating" /></a>
-
-<a href="https://marketplace.visualstudio.com/items?itemName=ThePsychoCoder.psyco-coder-dark" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/i/ThePsychoCoder.psyco-coder-dark.svg?color=c19999&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Installation" /></a>
-
-
 </p>
 
 
