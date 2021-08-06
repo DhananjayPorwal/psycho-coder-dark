@@ -1,7 +1,7 @@
 {
 	"name": "psycho-coder-dark",
 	"displayName": "The Psycho Coder Dark",
-	"version": "2.1.41",
+	"version": "3.14.15",
 	"publisher": "Dhananjay Porwal",
 
 	"type": "dark",
@@ -656,3 +656,5 @@
 	  "welcomePage.buttonBackground": "#011627",
 	  "welcomePage.buttonHoverBackground": "#011627",
 	  "widget.shadow": "#219fd5"
+	}
+}	  
